@@ -1,0 +1,2 @@
+Se opta por mejorar el scrip evitando el multiple uso de los mismos y llevando a RIECS_SM Un unico scrip.
+Se modifican los archivos de GROUPS para obtener Edad_Inicio.
